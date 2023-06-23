@@ -1,7 +1,7 @@
 FastAPI docs:
 https://fastapi.tiangolo.com/ 
 
-TO GET STARTED
+GET STARTED
 
 setup virtual environment
 - python -m venv venv
